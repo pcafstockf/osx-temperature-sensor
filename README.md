@@ -1,3 +1,6 @@
+## Archiving this fork as it's functionality was merged into the original project with [PR #6](https://github.com/sebhildebrandt/osx-temperature-sensor/pull/6)  
+This archive will be deleted Sep 1st, 2020
+
 # osx-temperature-sensor
 
 OSX Temperature Sensor library for [node.js][nodejs-url]
